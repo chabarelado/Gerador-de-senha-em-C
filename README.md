@@ -38,9 +38,13 @@ gcc gerador_senha.c -o gerador_senha
 🧪 Exemplo de uso
 
 > Digite o tamanho da senha (mínimo 8 caracteres): 12
+
 > A senha deve possuir letras maiusculas(S/N)? S
+
 > A senha deve possuir letras minusculas(S/N)? S
+
 > A senha deve possuir números(S/N)? S
+
 > A senha deve possuir caracteres especiais(S/N)? N
 
 > A senha gerada é 4WbCc9hQnKGr
