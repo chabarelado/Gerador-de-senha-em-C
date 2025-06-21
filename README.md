@@ -1,5 +1,3 @@
-# Gerador-de-senha-em-C
-
 # 🔐 Gerador de Senhas em C
 
 Este é um programa em linguagem C que gera senhas aleatórias com base nas preferências do usuário. O usuário pode escolher o tamanho da senha e se ela deve conter letras maiúsculas, minúsculas, números e/ou caracteres especiais.
@@ -30,7 +28,7 @@ Este é um programa em linguagem C que gera senhas aleatórias com base nas pref
 
 ### 1. Compile o código:
 
-```bash
+
 gcc gerador_senha.c -o gerador_senha
 
 2. Execute o programa:
@@ -89,3 +87,7 @@ Função principal para:
     Criar interface com menus mais visuais ou até GUI.
 
     Salvar senhas em arquivo .txt.
+
+📜 Licença
+
+Este projeto é livre para uso educacional. Sinta-se à vontade para modificar e melhorar!
