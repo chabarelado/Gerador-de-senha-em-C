@@ -80,18 +80,3 @@ Função principal para:
 
     A senha gerada pode conter caracteres repetidos.
 
-✨ Possíveis melhorias
-
-    Garantir ao menos um caractere de cada tipo selecionado pelo usuário.
-
-    Embaralhar os caracteres para evitar previsibilidade.
-
-    Implementar estrutura struct para organização dos dados.
-
-    Criar interface com menus mais visuais ou até GUI.
-
-    Salvar senhas em arquivo .txt.
-
-📜 Licença
-
-Este projeto é livre para uso educacional. Sinta-se à vontade para modificar e melhorar!
